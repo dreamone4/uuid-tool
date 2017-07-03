@@ -1,0 +1,11 @@
+{
+  "name": "uuid-tool",
+  "version": "1.0.0",
+  "description": "A tool to validate and generate UUID's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roberto",
+  "license": "ISC"
+}
